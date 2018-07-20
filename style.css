@@ -20,10 +20,6 @@ nav {
 }
 
 nav a {
- /*display: block;*/
- /*  margin-left: auto;
-  margin-right: auto;*/
- /*text-align: center;*/
  padding-left: 10px; 
  padding-right: 10px;
  background-color: grey;
