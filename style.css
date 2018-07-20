@@ -39,13 +39,14 @@ figcaption {
 }
 
 #details {
-  /*display: block;
-  margin-left: auto;
-  margin-right: auto;*/
-  width: 100%;
-  text-align: center;
+  display: block;
 }
 
 #details div {
+  text-align: center;
+  /*margin-left: auto;
+  margin-right: auto;*/
+  width: 25%;
   float: left;
+  background-color: red;
 }
