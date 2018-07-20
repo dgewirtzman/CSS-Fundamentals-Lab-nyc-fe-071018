@@ -24,3 +24,25 @@ nav a {
  padding-right: 10px;
  background-color: grey;
 }
+
+figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+
+#featured-property p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+  width: 100%;
+}
+
+#details div {
+  float: left;
+}
